@@ -138,3 +138,12 @@ Here is the image of how the **delete license plate** page should look like afte
 8) Connect to RPI  
 9) RUN smarthome.py on command prompt in RPI  
 ![](Screenshots_and_setup/smarthome.PNG)  
+
+**Telegram bot**  
+1) Telegram bot name is @community_smarthome  
+2) Commands that are avaliable in the telegram bot:  
+/get_temperature  
+/get_humidity  
+/open_main_door  
+/open_garage_door  
+/brightness_value  
